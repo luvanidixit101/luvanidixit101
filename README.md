@@ -3,6 +3,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://www.magnific.com/free-photos-vectors/coding-gif"> -->
+
 <img width="400" height="300" align="right" alt="image" src="https://github.com/user-attachments/assets/bfcab016-9885-4ee2-bc10-9e1201105a96" />
 
 
