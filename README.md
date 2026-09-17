@@ -1,109 +1,345 @@
-![logo](https://github.com/luvanidixit101/luvanidixit101/blob/main/Github%20Banner.jpeg)
-<h1 align="center">Hi 👋, I'm Dixit Luvani</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- <img align="right" alt="coding" width="400" src="https://www.magnific.com/free-photos-vectors/coding-gif"> -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<img width="400" height="300" align="right" alt="image" src="https://github.com/user-attachments/assets/bfcab016-9885-4ee2-bc10-9e1201105a96" />
+    <title>Dixit Luvani | Developer</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        header h1 {
+            color: #ffffff;
+            font-size: 40px;
+        }
+
+        header h2 {
+            color: #58a6ff;
+            font-size: 21px;
+            margin: 10px 0;
+        }
+
+        header p {
+            max-width: 700px;
+            margin: auto;
+            color: #8b949e;
+        }
+
+        section {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 25px;
+        }
+
+        section h2 {
+            color: #58a6ff;
+            margin-bottom: 18px;
+        }
+
+        ul {
+            padding-left: 22px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 12px;
+            border: 1px solid #30363d;
+            text-align: left;
+        }
+
+        th {
+            background: #21262d;
+            color: #58a6ff;
+        }
+
+        .project {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 18px;
+            margin-bottom: 15px;
+        }
+
+        .project h3 {
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+
+        .tech {
+            color: #3fb950;
+            margin-top: 8px;
+        }
+
+        a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .stats {
+            text-align: center;
+        }
+
+        .stats img {
+            max-width: 100%;
+            margin-top: 10px;
+        }
+
+        footer {
+            text-align: center;
+            color: #8b949e;
+            padding: 20px;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 30px;
+            }
+
+            table {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Introduction -->
+    <header>
+
+        <h1>Hi, I'm Dixit Luvani 👋</h1>
+
+        <h2>Python & Django Developer | Full-Stack Developer</h2>
+
+        <p>
+            MCA student passionate about backend development and building
+            real-world web applications. My primary focus is Python and Django,
+            along with REST APIs, databases and modern full-stack technologies.
+        </p>
+
+    </header>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luvanidixit101&label=Profile%20views&color=0e75b6&style=flat" alt="luvanidixit101" /> </p>
+    <!-- About -->
+    <section>
 
-- 🌱 I’m currently learning **Spring-Boot & Django Framework**
+        <h2>💻 About Me</h2>
 
-- 📫 How to reach me **luvanidixit101@gmail.com**
+        <ul>
+            <li>🎓 MCA Student</li>
 
-- ⚡ Fun fact **I an funny**
+            <li>
+                🐍 Focused on Python, Django and Backend Development
+            </li>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   **luvanidixit101@gmail.com**
-</p>
+            <li>
+                🚀 Currently learning Spring Boot, Microservices and React
+            </li>
 
-<h3 align="left">Languages and Tools:</h3>
+            <li>
+                🧠 Interested in REST APIs, Database Design and scalable applications
+            </li>
+        </ul>
 
-<p align="left">
+    </section>
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-</a>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
-</a>
+    <!-- Tech Stack -->
+    <section>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-</a>
+        <h2>🛠️ Tech Stack</h2>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-</a>
+        <table>
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-</a>
+            <tr>
+                <th>Category</th>
+                <th>Technologies</th>
+            </tr>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-</a>
+            <tr>
+                <td>Languages</td>
+                <td>Python, Java, JavaScript, TypeScript</td>
+            </tr>
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
-</a>
+            <tr>
+                <td>Frontend</td>
+                <td>React.js, HTML, CSS, Tailwind CSS, Bootstrap</td>
+            </tr>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-</a>
+            <tr>
+                <td>Backend</td>
+                <td>Django, Spring Boot, REST APIs</td>
+            </tr>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-</a>
+            <tr>
+                <td>Databases</td>
+                <td>PostgreSQL, MySQL, SQLite</td>
+            </tr>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-</a>
+            <tr>
+                <td>Tools</td>
+                <td>Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA</td>
+            </tr>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-</a>
+        </table>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-</a>
+    </section>
 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
-</a>
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
-</a>
+    <!-- Projects -->
+    <section>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</a>
+        <h2>📁 Featured Projects</h2>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-</a>
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-</a>
+        <div class="project">
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-</a>
+            <h3>🛠️ ToolShare</h3>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</a>
+            <p>
+                Peer-to-peer tool sharing and rental platform
+                based on Microservices Architecture.
+            </p>
 
-</p>
+            <p class="tech">
+                Spring Boot | PostgreSQL | Docker | React | TypeScript
+            </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luvanidixit101&show_icons=true&locale=en&layout=compact" alt="luvanidixit101" /></p>
+        </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvanidixit101&show_icons=true&locale=en" alt="luvanidixit101" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvanidixit101&" alt="luvanidixit101" /></p> -->
+        <div class="project">
+
+            <h3>🚚 FleetFlow</h3>
+
+            <p>
+                Web-based fleet management system for managing
+                vehicles and related operations.
+            </p>
+
+            <p class="tech">
+                Python | Django | PostgreSQL
+            </p>
+
+        </div>
+
+
+        <div class="project">
+
+            <h3>🤖 AI Attendance System</h3>
+
+            <p>
+                Face recognition based attendance management application.
+            </p>
+
+            <p class="tech">
+                Node.js | JavaScript | SQLite | Face-API.js
+            </p>
+
+        </div>
+
+
+        <div class="project">
+
+            <h3>💰 Expense Splitter</h3>
+
+            <p>
+                Web application for managing and splitting
+                shared expenses between users.
+            </p>
+
+            <p class="tech">
+                Python | Django | PostgreSQL
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- GitHub -->
+    <section class="stats">
+
+        <h2>📊 GitHub Stats</h2>
+
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=luvanidixit101&show_icons=true&theme=github_dark"
+            alt="Dixit Luvani GitHub Stats"
+        >
+
+    </section>
+
+
+    <!-- Contact -->
+    <section>
+
+        <h2>📬 Connect With Me</h2>
+
+        <p>
+            💻 GitHub:
+            <a href="https://github.com/luvanidixit101" target="_blank">
+                github.com/luvanidixit101
+            </a>
+        </p>
+
+        <p>
+            📍 Ahmedabad, Gujarat, India
+        </p>
+
+        <p>
+            💼 Open to Python/Django, Backend and Full-Stack Developer opportunities.
+        </p>
+
+    </section>
+
+
+    <footer>
+        © 2026 Dixit Luvani
+    </footer>
+
+</div>
+
+</body>
+
+</html>
